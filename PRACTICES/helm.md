@@ -2,7 +2,7 @@
 
 Appliquer la pratique ConCon avec Helm consiste à transformer des ressources Kubernetes existantes, souvent créées manuellement, en un Chart Helm structuré et maintenable. Cela permet de passer d'une gestion impérative (`kubectl apply/edit`) à une gestion déclarative et versionnée.
 
-L'outil principal pour la phase d'**Exportation** est [`helm-dump`](https://github.com/redhat-developer/helm-dump\).
+L'outil principal pour la phase d'**Exportation** est [`helm-dump`](https://github.com/redhat-developer/helm-dump) 
 
 #### Le Cycle ConCon pour Helm
 
