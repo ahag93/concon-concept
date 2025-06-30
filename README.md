@@ -1,3 +1,5 @@
+![Banner ConCon](8a7d1143-eceb-467d-bb8e-bbb868a46edf.png)
+
 ## ConCon (Convergence de Configuration)
 
 **ConCon est une pratique DevOps visant à systématiquement réconcilier l'état réel d'une infrastructure avec sa "Source de Vérité" (le code), en traitant la dérive de configuration non pas comme une erreur, mais comme une source d'information.**
