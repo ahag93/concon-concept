@@ -40,7 +40,7 @@ La pratique ConCon se décompose en un cycle vertueux en quatre étapes :
 
 Adopter ConCon va au-delà de la simple gestion de configuration. C'est un investissement dans la résilience et la vélocité de vos équipes.
 
-* **Anti-fragilité** : En s'inspirant du concept de Nassim Taleb, ConCon permet à votre système de se renforcer face aux désordres et aux imprévus. Chaque "hotfix" codifié devient une leçon apprise et intégrée, rendant le système global plus robuste.
+* **Anti-fragilité** : En s'inspirant du [`concept de Nassim Taleb`](https://www.fnac.com/a6103630/Nassim-Nicholas-Taleb-Antifragile), ConCon permet à votre système de se renforcer face aux désordres et aux imprévus. Chaque "hotfix" codifié devient une leçon apprise et intégrée, rendant le système global plus robuste.
 
 * **Source de Vérité Fiable** : ConCon garantit que votre code IaC est un reflet fidèle de ce qui est réellement déployé. Cela élimine les suppositions, accélère le débogage et permet des décisions basées sur des faits, non sur une documentation obsolète.
 
