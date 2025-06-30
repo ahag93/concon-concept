@@ -1,4 +1,4 @@
-![Banner ConCon](8a7d1143-eceb-467d-bb8e-bbb868a46edf.png)
+![Banner ConCon](202506301456_42.png)
 
 ## ConCon (Convergence de Configuration)
 
